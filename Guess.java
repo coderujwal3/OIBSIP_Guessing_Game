@@ -178,7 +178,7 @@ class Guess {
             System.out.println("\t\tThe actual number is : " + actual_number);
         }
     }
-
+                                         // Medium Game
     static void Medium_Game(String name, int actual_number, Random random, Scanner myObj, boolean guessed, int score, int attempts) {
         int input_value;
         System.out.println("\t\tMedium Game\n");
